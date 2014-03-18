@@ -1,0 +1,46 @@
+body{
+  padding-top: 10px;
+}
+
+.nav {
+  display: inline-block;
+}
+
+.yellow {
+  background: yellow;
+}
+.green {
+  background: green;
+}
+.orange {
+  background: orange;
+}
+.blue {
+  background: rgba(0,0,255, 1);
+}
+.white {
+  background: white;
+}
+
+.equip{
+  border: 1px solid #ccc;
+  display: inline-block;
+}
+
+.act-wrapper{
+  width: 25%;
+  float: left;
+  display: inline-block;
+  vertical-align: top;
+  cursor: pointer;
+}
+.clear {
+  clear: both;
+}
+.margin-b-10{
+  margin-bottom: 10px;
+}
+.img{
+  width: 64px;
+  height: 64px;
+}
